@@ -1,0 +1,376 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.landingpage{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/53172b1be4b0cc8a5401db4a/1564523099100-9MPVY26S7NP0LQP96ESV/IMG_1370.jpg?format=2500w);
+    width: 100%;
+    height: 1200px;
+}
+.header {
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+
+h2 {
+    color: rgb(10, 10, 10);
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 30px;
+    letter-spacing: 2px;
+
+}
+h4 {
+    float: left;
+    padding: 25px;
+
+}
+
+.header1 {
+    width: 50%;
+    display: flex;
+}
+
+.header2 {
+    width: 50%;
+    display: flex;
+    padding-top: 5px;
+}
+.sec1 {
+    width: 50%;
+    height: 600px;
+    display: flex;
+
+}
+
+.sec2 {
+    width: 40%;
+    height: 600px;
+    display: flex;
+}
+
+.page2 {
+    display: flex;
+}
+
+p {
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    letter-spacing: 0px;
+    font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: .36px;
+    line-height: 1.6em;
+    color: rgba(0, 0, 0, .81);
+    padding-left: 70px;
+    padding-top: 50px;
+}
+
+.sec1 h3 {
+
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    letter-spacing: 0px;
+    text-transform: none;
+    line-height: 1.2em;
+    font-family: futura-pt;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 17px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.6em;
+    width: 300px;
+
+}
+.sec2 {
+    width: 40%;
+    height: 600px;
+    display: flex;
+}
+.sec2 img {
+    width: 350px;
+    height: 500px;
+    padding-top: 70px;
+    padding-left: 150px;
+    padding-top: 50px;
+
+}
+.page3 {
+    width: 100%;
+    height: 500px;
+
+}
+
+.page3 .heading h2 {
+    text-align: center;
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    letter-spacing: 0px;
+    text-transform: none;
+    line-height: 1.2em;
+    font-family: futura-pt;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.6em;
+}
+
+.page3 .pics {
+    width: 1000px;
+    height: 400px;
+    background-color: rgb(252, 249, 249);
+    margin-left: 80px;
+    display: flex;
+
+}
+
+
+.page3 .pics img {
+
+    width: 250px;
+    height: 250px;
+    display: flex;
+}
+.page3 .pics .img1 {
+    padding: 20px;
+    width: 250px;
+    height: 250px;
+
+}
+
+.page3 .pics img a {
+    letter-spacing: 3rem;
+
+}
+.page4 {
+    width: 100%;
+    height: 300px;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/53172b1be4b0cc8a5401db4a/1614364160684-WSO2LL2ZPCRBH76QXG47/IMG_2152.jpg?format=2500w);
+}
+
+
+.page4 p {
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    letter-spacing: 0px;
+    text-transform: none;
+    line-height: 1.5em;
+    font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    letter-spacing: 3.65px;
+    text-transform: uppercase;
+    line-height: 1em;
+    color: #fff;
+    margin: 20px auto;
+    -webkit-transform: translatez(0);
+    text-align: center;
+}
+
+.page4 h2 {
+    text-align: center;
+    display: block;
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 48px;
+    letter-spacing: 0px;
+    text-transform: none;
+    font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 68px;
+    letter-spacing: .27px;
+    text-transform: uppercase;
+    line-height: 1em;
+    color: #fff;
+}
+
+.page4 a {
+    text-decoration: none;
+    color: #fff;
+    padding-left: 600px;
+    font-weight: bolder;
+}
+
+.page4 img {
+    width: 100%;
+    height: 300px;
+
+}
+.page5 {
+    margin-top: 300px;
+
+}
+
+.page5 p {
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    letter-spacing: 0px;
+    font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    letter-spacing: .36px;
+    line-height: 1.6em;
+    color: rgba(0, 0, 0, .81);
+    text-align: center;
+}
+.page5 .imge{
+    width: 300px;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 50px;
+    float: left;
+}
+.page5 .imge img{
+    width: 350px;
+    height: 400px;
+    /* float: left; */
+    
+}
+.page7{
+    width: 100%;
+    height: 300px;
+}
+.page7 img{
+    height: 350px;
+    width: 100%;
+    position: relative;
+}
+.page7 p{
+    position: absolute;
+    color: rgb(248, 248, 248);
+    margin-top: -300px;
+    margin-left: 350px;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    
+}
+.page7 h2{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 450px;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 48px;
+    letter-spacing: 0px;
+    text-transform: none;
+    font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 68px;
+    letter-spacing: .27px;
+    text-transform: uppercase;
+    line-height: 1em;
+    color: #fff;
+}
+/* .last{
+    margin-top: 500px;
+    background-color: black;
+    width: 100%;
+    height: 200px;
+} */
+/* .last h4{
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+} */
+
+
+#contact {
+    background-color: #3941458b;
+    padding: 60px 8% 40px;
+    text-align: center;
+    margin-top: 600px;
+  }
+  
+  #contact .section-title .sub-title {
+    color: #fff;
+  }
+  
+  #contact .content {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    align-items: center;
+  }
+  
+  .content .contact-left,
+  .content .contact-right {
+    flex-basis: 50%;
+  }
+  
+  .content .contact-left form {
+    width: 100%;
+  }
+  
+  .contact-left form input,
+  .contact-left form textarea,
+  .contact-left form button {
+    width: 100%;
+    border: 0;
+    outline: none;
+    background: #f7f7f7;
+    color: #120f2d;
+    resize: none;
+    font-size: 14px;
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 6px;
+  }
+  
+  .contact-left form button {
+    background: #000;
+    color: #f7f7f7;
+    font-weight: 500;
+    margin: 0;
+    border-radius: 0;
+    cursor: pointer;
+  }
+  
+  .content .vl {
+    border-left: 2px solid #fff;
+    height: 300px;
+  }
+  
+  .content .contact-right {
+    text-align: left;
+  }
+  
+  .contact-right .col {
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+  }
+  
+  .contact-right .col i {
+    font-size: 28px;
+    margin-right: 10px;
+  }
+  
+  .col .info .title {
+    font-size: 20px;
+  }
+  
+  .copyright {
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 60px;
+  }
+  
+  .copyright a {
+    text-decoration: none;
+    color: #120f2d;
+  }
+  
